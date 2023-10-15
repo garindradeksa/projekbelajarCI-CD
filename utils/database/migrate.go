@@ -1,5 +1,6 @@
 package database
 
+// migrate
 import (
 	"restEcho1/features/users/data"
 

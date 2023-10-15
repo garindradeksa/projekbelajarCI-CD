@@ -1,5 +1,6 @@
 package helper
 
+// res
 func FormatResponse(message string, data any) map[string]any {
 	var response = map[string]any{}
 	response["message"] = message

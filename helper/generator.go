@@ -1,5 +1,6 @@
 package helper
 
+// generator
 import "github.com/google/uuid"
 
 type GeneratorInterface interface {

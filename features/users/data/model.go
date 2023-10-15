@@ -1,5 +1,6 @@
 package data
 
+// model
 type User struct {
 	ID       string `gorm:"varchar(255);primaryKey;"`
 	Nama     string

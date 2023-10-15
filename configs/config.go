@@ -1,3 +1,5 @@
+// config
+
 package configs
 
 import (

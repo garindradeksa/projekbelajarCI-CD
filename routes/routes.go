@@ -24,3 +24,4 @@ func RouteUser(e *echo.Echo, uc users.UserHandlerInterface, cfg configs.ProgramC
 // 	barang.DELETE("", bc.Delete())
 // 	barang.PUT("/:id", bc.Update())
 // }
+//

@@ -1,5 +1,6 @@
 package handler
 
+// request
 type RegisterInput struct {
 	Nama     string `json:"nama"`
 	Password string `json:"password"`
